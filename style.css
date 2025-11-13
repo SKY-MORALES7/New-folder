@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 .container{
     width: 100%;
     display: flex;
@@ -23,7 +24,7 @@
 
 .calculator{
     
-    background-color: rgba(119, 136, 153, 0.856);
+    background-color: rgba(56, 106, 153, 0.884);
     
     border: 1px solid rgba(56, 56, 56, 0.808);
     padding: 30px;
